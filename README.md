@@ -5,18 +5,8 @@
         <title>Project: Blog</title>
     </head>
     <style>
-        body{
-            background-color:rgb(242, 169, 242);
-            font-family: montserrat
-            ;
-        }
-        h1{
-            font-weight: bold;
-            font-family: sans-serif;
-        }
-        h6{
-            font-style:italic;
-        }
+       theme: jekyll-theme-cayman
+        
             
     </style>
     <body>
